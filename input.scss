@@ -1,0 +1,10 @@
+$primary_1: #db9407;
+$primary_2: #000;
+$primary_3: #f8f9fa;
+$primary_Font: 'Roboto', sans-serif;
+
+body {
+    color: $primary_1;
+    font-family: $primary_Font;
+    background: $primary_2;
+}
